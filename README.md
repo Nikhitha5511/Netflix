@@ -43,3 +43,6 @@
 text-align: center;: This centers the text content horizontally within the main content.
 * font-size: 20px: This sets the font size of the text content.
 * height: auto;: This allows the main content to adjust its height based on its content.
+
+# Hosted Link
+https://nikhitha5511.github.io/Netflix/?authuser=0
